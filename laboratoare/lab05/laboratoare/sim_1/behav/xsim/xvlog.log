@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/student/Desktop/laborator5/laborator5.srcs/sources_1/new/automat_cafea.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module automat_cafea
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'state' is not allowed [C:/Users/student/Desktop/laborator5/laborator5.srcs/sources_1/new/automat_cafea.v:28]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/student/Desktop/laborator5/laborator5.srcs/sim_1/new/sim1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim1

@@ -1,0 +1,10 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/student/Desktop/cronometru/cronometru/cronometru.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/student/Desktop/cronometru/cronometru/cronometru.srcs/sources_1/new/afisare_7seg.v,1553607483,verilog,,C:/Users/student/Desktop/cronometru/cronometru/cronometru.srcs/sources_1/new/bin2bcd.v,,afisare_7seg,,,,,,,,
+C:/Users/student/Desktop/cronometru/cronometru/cronometru.srcs/sources_1/new/bin2bcd.v,1553603308,verilog,,C:/Users/student/Desktop/cronometru/cronometru/cronometru.srcs/sources_1/new/divizor_ceas.v,,bin2bcd,,,,,,,,
+C:/Users/student/Desktop/cronometru/cronometru/cronometru.srcs/sources_1/new/cronometru.v,1553603308,verilog,,,,cronometru,,,,,,,,
+C:/Users/student/Desktop/cronometru/cronometru/cronometru.srcs/sources_1/new/divizor_ceas.v,1553607603,verilog,,C:/Users/student/Desktop/cronometru/cronometru/cronometru.srcs/sources_1/new/numarator_59.v,,divizor_ceas,,,,,,,,
+C:/Users/student/Desktop/cronometru/cronometru/cronometru.srcs/sources_1/new/numarator_59.v,1553607416,verilog,,C:/Users/student/Desktop/cronometru/cronometru/cronometru.srcs/sources_1/new/cronometru.v,,numarator_59,,,,,,,,

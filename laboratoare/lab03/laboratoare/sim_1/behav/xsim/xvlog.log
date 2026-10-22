@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/student/Desktop/laborator3/laborator3.srcs/sources_1/new/multiplexor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multiplexor
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/student/Desktop/laborator3/laborator3.srcs/sim_1/new/simulare_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulare_mux
